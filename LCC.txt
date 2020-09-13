@@ -1,2 +1,7 @@
 nihal n urs
-hi
+<<<<<<< HEAD
+ankur
+=======
+hello LCC
+commit first
+>>>>>>> 42d93a9ca38af4b8ec01bedc388bb7d6ed48b806
