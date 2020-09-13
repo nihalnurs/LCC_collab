@@ -4,4 +4,8 @@ ankur
 =======
 hello LCC
 commit first
+<<<<<<< HEAD
 >>>>>>> 42d93a9ca38af4b8ec01bedc388bb7d6ed48b806
+=======
+Aditya jm
+>>>>>>> 11e3e25ffd79b371e8b22a9fa0ae02bca29b5f3f
