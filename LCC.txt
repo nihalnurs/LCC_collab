@@ -1,16 +1,13 @@
 nihal n urs
-<<<<<<< HEAD
+
 ankur
-=======
+
 hello LCC
 commit first
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 42d93a9ca38af4b8ec01bedc388bb7d6ed48b806
-=======
+
+
 Aditya jm
->>>>>>> 11e3e25ffd79b371e8b22a9fa0ae02bca29b5f3f
-=======
+
 Aditya jm
 Aditya-1
->>>>>>> b13f16acaed8a4887aa2ef09507d8bb8deec6885
+
